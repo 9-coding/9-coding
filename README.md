@@ -1,5 +1,6 @@
 ### Hi there 👋
 ![header](https://capsule-render.vercel.app/api?type=waving&color=CBB5E6&height=300&section=header&text=Welcome!&fontSize=90&animation=fadeIn)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=9-coding)](https://github.com/9-coding/github-readme-stats)
 <!--
 **9-coding/9-coding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
