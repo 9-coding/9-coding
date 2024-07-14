@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 ![header](https://capsule-render.vercel.app/api?type=waving&color=CBB5E6&height=300&section=header&text=Welcome!&fontSize=90&animation=fadeIn)
 <!--
 **9-coding/9-coding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Projects
+- Computer Vision major Team project: https://github.com/9-coding/ComputerVision_TeamProject.git
+- Deep Learning major Team project: https://github.com/9-coding/Pothole_detection.git
+- 2024 Google Solution Challenge: https://github.com/CLIP-CLImate-Protection
+- Self-supervised Depth Completion: https://github.com/suunnnnnj/SSDC (In Progress)
+- Kaggle for 2024 Google ML Bootcamp: TBD
+
+## Studies
+- PyTorch study repository: https://github.com/9-coding/PyTorch.git
