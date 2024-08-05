@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 - Computer Vision major Team project: https://github.com/9-coding/ComputerVision_TeamProject.git
 - Deep Learning major Team project: https://github.com/9-coding/Pothole_detection.git
 - 2024 Google Solution Challenge: https://github.com/CLIP-CLImate-Protection
-- Self-supervised Depth Completion: https://github.com/suunnnnnj/SSDC (In Progress)
-- Kaggle for 2024 Google ML Bootcamp: TBD
+- DenseLiDAR implementation (non-official): https://github.com/suunnnnnj/DenseLiDAR
+- Kaggle for 2024 Google ML Bootcamp: https://github.com/9-coding/Kaggle
 
 ## Studies
 - PyTorch study repository: https://github.com/9-coding/PyTorch.git
