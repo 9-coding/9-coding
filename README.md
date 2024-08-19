@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## Projects
 - Computer Vision major Team project: https://github.com/9-coding/ComputerVision_TeamProject.git
-- Deep Learning major Team project: https://github.com/9-coding/Pothole_detection.git
+- Deep Learning major Team project: https://github.com/9-coding/Real-time-Object-Detection-In-Road-Environments-Using-YOLOv10.git
 - 2024 Google Solution Challenge: https://github.com/CLIP-CLImate-Protection
 - DenseLiDAR implementation (non-official): https://github.com/suunnnnnj/DenseLiDAR
 - Kaggle for 2024 Google ML Bootcamp: https://github.com/9-coding/Kaggle
